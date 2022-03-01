@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDQOCwD5PCQ41Z5vOHISWHV3wKgqXNGTUqTMSLJQ9EYwR5xlmaajnI37Lq9oMvz08rml3BzqWsxZxkj7dqBWGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anass\\source\\repos\\LinqLab2\\LinqLab2\\LinqLab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anass\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\anass\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
